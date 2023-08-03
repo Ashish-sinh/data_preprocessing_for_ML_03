@@ -14,4 +14,8 @@ Feature Selection Techniques 🎯:
 - Mutual Information for Regression 📈: Utilize mutual information for regression tasks to select informative features.
 - Feature Importance Ranking 🏆: Rank features based on their importance in predictive models, such as Random Forest or Gradient Boosting.
 
+# File 3: outlier_detection.ipynb 🔍
+- Box Plot 📊: Visualize and identify outliers in your data using box plots.
+- Z-Score for Outlier Detection 📈: Use Z-Score to quantify the deviation of data points from the mean and identify outliers.
+
 These resources will empower you to preprocess your data efficiently, enhance model performance, and accelerate your data-driven decision-making process 🎓🔍
